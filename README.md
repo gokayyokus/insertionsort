@@ -8,7 +8,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
     [2,6,16,18,22,17]
   Big-O gösterimini yazınız.
     
-    O(n²)
+    O(logn)
   
   Time Complexity: 
   
